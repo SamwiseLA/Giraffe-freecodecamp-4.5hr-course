@@ -1,0 +1,7 @@
+Jim - Salesman
+Dwight - Salesman
+Pam - Manager
+Michael - Receptionist
+Oscar - Writer
+Feliz - Accountant
+Samwise - Programmer

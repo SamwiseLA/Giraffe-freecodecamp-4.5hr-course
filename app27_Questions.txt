@@ -1,0 +1,6 @@
+What color are Apples?\n(a) Red/Green\n(b) Purple\n(c) Orange\n\n, a
+What color are Bananas?\n(a) Teal\n(b) Magenta\n(c) Yellow\n\n, c
+What color are Strawberries?\n(a) Yellow\n(b) Red\n(c) Blue\n\n, b
+What color are Lemons?\n(a) Yellow\n(b) Red\n(c) Blue\n\n, a
+What color are Pears?\n(a) Yellow\n(b) Green\n(c) Blue\n\n, b
+What color are Plumbs?\n(a) Paisley\n(b) White\n(c) Purple\n\n, c
